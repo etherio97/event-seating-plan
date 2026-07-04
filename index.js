@@ -17,7 +17,11 @@ const io = new Server(server, {
 });
 
 const _memData = [
-  {},
+  {
+    no: 3,
+    title: "Table 3",
+    taken: 0,
+  },
   {
     no: 1,
     title: "Table 1",
@@ -28,20 +32,16 @@ const _memData = [
     title: "Table 2",
     taken: 0,
   },
-  {},
-  {
-    no: 3,
-    title: "Table 3",
-    taken: 0,
-  },
-  {},
-  {},
   {
     no: 4,
     title: "Table 4",
     taken: 0,
   },
-  {},
+  {
+    no: 7,
+    title: "Table 7",
+    taken: 0,
+  },
   {
     no: 5,
     title: "Table 5",
@@ -52,20 +52,16 @@ const _memData = [
     title: "Table 6",
     taken: 0,
   },
-  {},
-  {
-    no: 7,
-    title: "Table 7",
-    taken: 0,
-  },
-  {},
-  {},
   {
     no: 8,
     title: "Table 8",
     taken: 0,
   },
-  {},
+  {
+    no: 11,
+    title: "Table 11",
+    taken: 0,
+  },
   {
     no: 9,
     title: "Table 9",
@@ -76,17 +72,14 @@ const _memData = [
     title: "Table 10",
     taken: 0,
   },
-  {},
-  {
-    no: 11,
-    title: "Table 11",
-    taken: 0,
-  },
-  {},
-  {},
   {
     no: 12,
     title: "Table 12",
+    taken: 0,
+  },
+  {
+    no: 15,
+    title: "Table 15",
     taken: 0,
   },
   {
@@ -94,26 +87,21 @@ const _memData = [
     title: "Table 13",
     taken: 0,
   },
-  {},
   {
     no: 14,
     title: "Table 14",
     taken: 0,
   },
-  {},
-  {
-    no: 15,
-    title: "Table 15",
-    taken: 0,
-  },
-  {},
-  {},
   {
     no: 16,
     title: "Table 16",
     taken: 0,
   },
-  {},
+  {
+    no: 19,
+    title: "Table 19",
+    taken: 0,
+  },
   {
     no: 17,
     title: "Table 17",
@@ -122,12 +110,6 @@ const _memData = [
   {
     no: 18,
     title: "Table 18",
-    taken: 0,
-  },
-  {},
-  {
-    no: 19,
-    title: "Table 19",
     taken: 0,
   },
 ];
