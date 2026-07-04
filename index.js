@@ -17,70 +17,117 @@ const io = new Server(server, {
 });
 
 const _memData = [
+  {},
   {
     no: 1,
-    title: "Organizer",
+    title: "Table 1",
     taken: 0,
   },
   {
     no: 2,
-    title: "VIP",
-    taken: 0,
-  },
-  {
-    no: 3,
-    title: "ဘဘကြီး",
-    taken: 0,
-  },
-  {
-    no: 4,
-    title: "ဘဘကြီး",
-    taken: 0,
-  },
-  {
-    no: 5,
-    title: "Korean",
-    taken: 0,
-  },
-  {
-    no: 6,
-    title: "Korean",
-    taken: 0,
-  },
-  {
-    no: 7,
-    title: "Relative",
-    taken: 0,
-  },
-  {
-    no: 8,
-    title: "ဘဘကြီး",
-    taken: 0,
-  },
-  {
-    no: 9,
-    title: "Korean",
-    taken: 0,
-  },
-  {
-    no: 10,
-    title: "Guest",
-    taken: 0,
-  },
-  {
-    no: 11,
-    title: "Guest",
-    taken: 0,
-  },
-  {
-    no: 12,
-    title: "Relative",
+    title: "Table 2",
     taken: 0,
   },
   {},
   {
+    no: 3,
+    title: "Table 3",
+    taken: 0,
+  },
+  {},
+  {},
+  {
+    no: 4,
+    title: "Table 4",
+    taken: 0,
+  },
+  {},
+  {
+    no: 5,
+    title: "Table 5",
+    taken: 0,
+  },
+  {
+    no: 6,
+    title: "Table 6",
+    taken: 0,
+  },
+  {},
+  {
+    no: 7,
+    title: "Table 7",
+    taken: 0,
+  },
+  {},
+  {},
+  {
+    no: 8,
+    title: "Table 8",
+    taken: 0,
+  },
+  {},
+  {
+    no: 9,
+    title: "Table 9",
+    taken: 0,
+  },
+  {
+    no: 10,
+    title: "Table 10",
+    taken: 0,
+  },
+  {},
+  {
+    no: 11,
+    title: "Table 11",
+    taken: 0,
+  },
+  {},
+  {},
+  {
+    no: 12,
+    title: "Table 12",
+    taken: 0,
+  },
+  {
     no: 13,
-    title: "Reserved",
+    title: "Table 13",
+    taken: 0,
+  },
+  {},
+  {
+    no: 14,
+    title: "Table 14",
+    taken: 0,
+  },
+  {},
+  {
+    no: 15,
+    title: "Table 15",
+    taken: 0,
+  },
+  {},
+  {},
+  {
+    no: 16,
+    title: "Table 16",
+    taken: 0,
+  },
+  {},
+  {
+    no: 17,
+    title: "Table 17",
+    taken: 0,
+  },
+  {
+    no: 18,
+    title: "Table 18",
+    taken: 0,
+  },
+  {},
+  {
+    no: 19,
+    title: "Table 19",
     taken: 0,
   },
 ];
